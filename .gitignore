@@ -11,6 +11,7 @@
 # Eclipse hidden files
 .metadata
 .classpath
+.project
 
 # Shared objects (inc. Windows DLLs)
 *.dll
