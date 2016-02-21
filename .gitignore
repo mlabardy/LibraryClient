@@ -1,0 +1,24 @@
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Classes files
+*.class
+
+# Eclipse hidden files
+.metadata
+.classpath
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
